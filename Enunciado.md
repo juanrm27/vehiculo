@@ -1,5 +1,5 @@
 ## Ejercicio 1: 
-Crear una clase de Vehiculo sin variables ni métodos
+Crear una clase de Vehiculo sin variables ni métodos.
 
 ## Ejercicio 2: 
 Escriba un programa de Python para crear una clase Vehiculo con atributos de instancia nombre, velocidad_maxima y kilometraje.
